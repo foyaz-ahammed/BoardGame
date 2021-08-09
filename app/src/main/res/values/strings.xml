@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BoardGame</string>
+    <string name="empty_board">Empty board</string>
+    <string name="player_goes">Player %1$d goes in column %2$d</string>
+    <string name="win">You won</string>
+    <string name="lose">You lost</string>
+    <string name="drawn">Game is drawn</string>
+    <string name="restart">Restart</string>
+    <string name="retry">Retry</string>
+    <string name="game_ended">Game is ended</string>
+    <string name="game_option">Game option</string>
+    <string name="player_go_first">Do you want to go first?</string>
+    <string name="network_error">Network error</string>
+    <string name="network_error_description">Please check your network connection and retry.</string>
+</resources>
